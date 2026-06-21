@@ -1,4 +1,4 @@
-Aplikasi Sistem Perpustakaan Berbasis CSV  
+Sistem Pemesanan Tiket Berbasis CSV dengan Implementasi Struktur Data dan Algoritma Sorting & Searching  
 
 Nama : Lulu Hayatun Mardia
 
