@@ -14,12 +14,12 @@ Tema ini dipilih karena relevan dengan kebutuhan nyata, seperti sistem pemesanan
 
 Tujuan
 
-Membuat aplikasi pemesanan tiket konser berbasis command-line.
+1. Membuat aplikasi pemesanan tiket konser berbasis command-line.
 
-Menggunakan file .CSV sebagai basis data.
+2. Menggunakan file .CSV sebagai basis data.
 
-Mengimplementasikan minimal dua struktur data (Hash Map, Queue).
+3. Mengimplementasikan minimal dua struktur data (Hash Map, Queue).
 
-Menambahkan algoritma Sorting dan Searching.
+4. Menambahkan algoritma Sorting dan Searching.
 
-Menyediakan antarmuka sederhana untuk pengguna
+5. Menyediakan antarmuka sederhana untuk pengguna
