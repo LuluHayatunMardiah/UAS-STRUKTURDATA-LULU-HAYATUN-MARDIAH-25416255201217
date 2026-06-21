@@ -1,5 +1,7 @@
 # UAS-STRUKTURDATA-LULU-HAYATUN-MARDIAH-25416255201217
 
-Nama : Lulu Hayatun Mardiah
+Nama : Lulu Hayatun Mardia
+
 Kelas : IF25B
+
 Nim : 25416255201217
