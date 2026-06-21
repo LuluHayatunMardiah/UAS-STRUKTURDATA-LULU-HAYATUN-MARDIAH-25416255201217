@@ -1,4 +1,4 @@
-# UAS-STRUKTURDATA-LULU-HAYATUN-MARDIAH-25416255201217
+Aplikasi Sistem Perpustakaan Berbasis CSV  
 
 Nama : Lulu Hayatun Mardia
 
