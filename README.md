@@ -1,4 +1,4 @@
-Aplikasi Pemesanan Tiket Konser Berbasis CSV
+Sistem Pemesanan Tiket Berbasis File CSV dengan Implementasi CRUD dan Struktur Data
 
 Nama : Lulu Hayatun Mardia
 
