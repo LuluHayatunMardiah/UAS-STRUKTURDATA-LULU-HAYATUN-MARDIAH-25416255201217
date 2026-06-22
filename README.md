@@ -1,4 +1,4 @@
-SISTEM PEMESANAN TIKET BERBASIS CSV DENGAN IMPLEMENTASI CRUB DAN STRUKTUR DATA 
+### SISTEM PEMESANAN TIKET BERBASIS CSV DENGAN IMPLEMENTASI CRUB DAN STRUKTUR DATA 
 
 Nama : Lulu Hayatun Mardia
 
@@ -6,13 +6,13 @@ Kelas : IF25B
 
 Nim : 25416255201217
 
-DESKRIPSI PROYEK
+### DESKRIPSI PROYEK
 
 Aplikasi ini merupakan sistem pemesanan tiket transportasi sederhana berbasis Python. Sistem menggunakan file CSV sebagai media penyimpanan data sehingga tidak memerlukan database tambahan. Program dirancang untuk membantu pengguna dalam mengelola data tiket dan proses pemesanan secara mudah melalui antarmuka command-line.
 
 Selain menerapkan operasi CRUD (Create, Read, Update, Delete), aplikasi ini juga memanfaatkan struktur data untuk mengelola informasi tiket dan antrean pemesanan. Algoritma searching dan sorting digunakan untuk mempermudah proses pencarian serta pengurutan data yang tersimpan.
 
-TUJUAN
+### TUJUAN
 
 1. Membuat aplikasi pemesanan tiket berbasis command-line menggunakan Python.
 
@@ -24,7 +24,7 @@ TUJUAN
 
 5. Menyediakan antarmuka sederhana yang mudah digunakan oleh pengguna.
 
-FITUR APLIKASI
+### FITUR APLIKASI
 
 1. Menambah data tiket.
 
@@ -44,7 +44,7 @@ FITUR APLIKASI
 
 9. Menyimpan dan membaca data dari file CSV.
 
-STRUKTUR DATA YANG DIGUNAKAN
+### STRUKTUR DATA YANG DIGUNAKAN
 
 ### Linked List
 
@@ -54,28 +54,17 @@ Linked List digunakan untuk menyimpan data tiket yang dibaca dari file CSV. Stru
 
 Queue digunakan untuk mengelola antrean pemesanan tiket berdasarkan prinsip FIFO (First In First Out). Pemesanan yang masuk terlebih dahulu akan diproses terlebih dahulu.
 
-ALGORITMA YANG DIGUNAKAN 
+### Algoritma yang Digunakan
 
-Sistem menerapkan algoritma searching untuk mencari data tiket dan sorting untuk mengurutkan data agar lebih mudah ditampilkan kepada pengguna.
+### Searching
 
-Implementasi CRUD
-Create
+Sistem menggunakan proses pencarian untuk menemukan data tiket berdasarkan tujuan yang dimasukkan pengguna.
 
-Menambahkan data tiket baru ke dalam sistem.
+### Sorting
 
-Read
+Sistem menggunakan proses pengurutan berdasarkan harga tiket sehingga pengguna dapat melihat daftar tiket dari harga termurah
 
-Menampilkan seluruh data tiket yang tersimpan.
-
-Update
-
-Mengubah data tiket berdasarkan ID tiket.
-
-Delete
-
-Menghapus data tiket dari sistem.
-
-KELEBIHAN SISTEM
+### KELEBIHAN SISTEM
 
 1. Tidak memerlukan database server.
 2. Penyimpanan data menggunakan file CSV yang sederhana dan ringan.
@@ -83,6 +72,6 @@ KELEBIHAN SISTEM
 4. Mudah digunakan dan dijalankan.
 5. Cocok sebagai media pembelajaran Python dan Struktur Data.
 
-KESIMPULAN
+### KESIMPULAN
 
 Sistem Pemesanan Tiket Berbasis File CSV dengan Implementasi CRUD dan Struktur Data berhasil dibuat untuk membantu pengelolaan data tiket secara sederhana. Sistem mampu menjalankan fungsi CRUD, pencarian data, pengurutan data, dan pemesanan tiket dengan baik menggunakan file CSV sebagai media penyimpanan data.
