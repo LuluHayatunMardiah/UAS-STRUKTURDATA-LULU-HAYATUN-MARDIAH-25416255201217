@@ -46,13 +46,13 @@ FITUR APLIKASI
 
 STRUKTUR DATA YANG DIGUNAKAN
 
-Hash Map (Dictionary)
+### Linked List
 
-Hash Map digunakan untuk menyimpan data tiket dalam bentuk pasangan key dan value sehingga proses pengelolaan data menjadi lebih mudah dan cepat.
+Linked List digunakan untuk menyimpan data tiket yang dibaca dari file CSV. Struktur ini terdiri dari node-node yang saling terhubung dan memudahkan proses pengelolaan data selama program berjalan.
 
-Queue
+### Queue
 
-Queue digunakan untuk mengatur antrean pemesanan tiket berdasarkan prinsip FIFO (First In First Out), yaitu data yang masuk terlebih dahulu akan diproses terlebih dahulu.
+Queue digunakan untuk mengelola antrean pemesanan tiket berdasarkan prinsip FIFO (First In First Out). Pemesanan yang masuk terlebih dahulu akan diproses terlebih dahulu.
 
 ALGORITMA YANG DIGUNAKAN 
 
