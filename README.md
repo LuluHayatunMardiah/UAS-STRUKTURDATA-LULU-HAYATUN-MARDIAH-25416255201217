@@ -1,4 +1,4 @@
-### SISTEM PEMESANAN TIKET BERBASIS CSV DENGAN IMPLEMENTASI CRUB DAN STRUKTUR DATA 
+### SISTEM PEMESANAN TIKET BERBASIS CSV DENGAN IMPLEMENTASI CRUD DAN STRUKTUR DATA
 
 Nama : Lulu Hayatun Mardia
 
@@ -26,23 +26,21 @@ Selain menerapkan operasi CRUD (Create, Read, Update, Delete), aplikasi ini juga
 
 ### FITUR APLIKASI
 
-1. Menambah data tiket.
+1. Menampilkan data tiket.
 
-2. Menampilkan data tiket.
+2. Melakukan pemesanan tiket.
 
-3. Mengubah data tiket.
+3. Menampilkan data pemesanan.
 
-4. Menghapus data tiket.
+4. Mengubah data pemesanan.
 
-5. Mencari data tiket.
+5. Menghapus data pemesanan.
 
-6. Mengurutkan data tiket.
+6. Mencari data tiket.
 
-7. Melakukan pemesanan tiket.
+7. Mengurutkan data tiket berdasarkan harga.
 
-8. Menampilkan antrean pemesanan.
-
-9. Menyimpan dan membaca data dari file CSV.
+8. Menyimpan dan membaca data dari file CSV.
 
 ### STRUKTUR DATA YANG DIGUNAKAN
 
