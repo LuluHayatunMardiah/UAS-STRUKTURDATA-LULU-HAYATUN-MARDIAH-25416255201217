@@ -1,6 +1,6 @@
-### SISTEM PEMESANAN TIKET BERBASIS CSV DENGAN IMPLEMENTASI CRUD DAN STRUKTUR DATA
+### SISTEM PEMESANAN TIKET BERBASIS FILE CSV DENGAN IMPLEMENTASI CRUD, SEARCHING, SORTING, DAN STRUKTUR DATA
 
-Nama : Lulu Hayatun Mardia
+Nama : Lulu Hayatun Mardiah
 
 Kelas : IF25B
 
@@ -14,15 +14,17 @@ Selain menerapkan operasi CRUD (Create, Read, Update, Delete), aplikasi ini juga
 
 ### TUJUAN
 
-1. Membuat aplikasi pemesanan tiket berbasis command-line menggunakan Python.
+1. Membuat aplikasi pemesanan tiket berbasis command-line menggunakan bahasa pemrograman Python.
 
-2. Menggunakan file CSV sebagai basis penyimpanan data.
+2. Menggunakan file CSV sebagai media penyimpanan data.
 
-3. Mengimplementasikan struktur data dalam pengelolaan data tiket dan pemesanan.
+3. Mengimplementasikan operasi CRUD (Create, Read, Update, Delete).
 
-4. Mengimplementasikan algoritma searching dan sorting.
+4. Mengimplementasikan struktur data Linked List dan Queue.
 
-5. Menyediakan antarmuka sederhana yang mudah digunakan oleh pengguna.
+5. Mengimplementasikan algoritma searching dan sorting.
+
+6. Memberikan kemudahan dalam pengelolaan data tiket dan pemesanan.
 
 ### FITUR APLIKASI
 
@@ -60,7 +62,7 @@ Sistem menggunakan proses pencarian untuk menemukan data tiket berdasarkan tujua
 
 ### Sorting
 
-Sistem menggunakan proses pengurutan berdasarkan harga tiket sehingga pengguna dapat melihat daftar tiket dari harga termurah
+Sistem menggunakan algoritma Bubble Sort untuk mengurutkan data tiket berdasarkan harga, sehingga pengguna dapat melihat daftar tiket dari harga termurah hingga termahal.
 
 ### KELEBIHAN SISTEM
 
@@ -72,4 +74,4 @@ Sistem menggunakan proses pengurutan berdasarkan harga tiket sehingga pengguna d
 
 ### KESIMPULAN
 
-Sistem Pemesanan Tiket Berbasis File CSV dengan Implementasi CRUD dan Struktur Data berhasil dibuat untuk membantu pengelolaan data tiket secara sederhana. Sistem mampu menjalankan fungsi CRUD, pencarian data, pengurutan data, dan pemesanan tiket dengan baik menggunakan file CSV sebagai media penyimpanan data.
+Sistem Pemesanan Tiket Berbasis File CSV dengan Implementasi CRUD dan Struktur Data telah berhasil dikembangkan menggunakan bahasa pemrograman Python. Sistem mampu melakukan pengelolaan data tiket dan pemesanan melalui operasi CRUD, pencarian data (searching), pengurutan data (sorting), serta penyimpanan data menggunakan file CSV. Implementasi Linked List dan Queue menunjukkan penerapan konsep struktur data dalam pengembangan aplikasi sederhana yang fungsional dan mudah digunakan.
