@@ -56,13 +56,13 @@ Queue digunakan untuk mengelola antrean pemesanan tiket berdasarkan prinsip FIFO
 
 ### Algoritma yang Digunakan
 
-### Searching
+### Searching (Linear Search)
 
-Sistem menggunakan proses pencarian untuk menemukan data tiket berdasarkan tujuan yang dimasukkan pengguna.
+Sistem menggunakan algoritma Linear Search untuk mencari data tiket berdasarkan tujuan yang dimasukkan pengguna.
 
-### Sorting
+### Sorting (Bubble Sort)
 
-Sistem menggunakan algoritma Bubble Sort untuk mengurutkan data tiket berdasarkan harga, sehingga pengguna dapat melihat daftar tiket dari harga termurah hingga termahal.
+Sistem menggunakan algoritma Bubble Sort untuk mengurutkan data tiket berdasarkan harga dari yang termurah hingga termahal.
 
 ### KELEBIHAN SISTEM
 
@@ -74,4 +74,4 @@ Sistem menggunakan algoritma Bubble Sort untuk mengurutkan data tiket berdasarka
 
 ### KESIMPULAN
 
-Sistem Pemesanan Tiket Berbasis File CSV dengan Implementasi CRUD dan Struktur Data telah berhasil dikembangkan menggunakan bahasa pemrograman Python. Sistem mampu melakukan pengelolaan data tiket dan pemesanan melalui operasi CRUD, pencarian data (searching), pengurutan data (sorting), serta penyimpanan data menggunakan file CSV. Implementasi Linked List dan Queue menunjukkan penerapan konsep struktur data dalam pengembangan aplikasi sederhana yang fungsional dan mudah digunakan.
+Sistem Pemesanan Tiket Berbasis File CSV dengan Implementasi CRUD dan Struktur Data telah berhasil dikembangkan menggunakan bahasa pemrograman Python. Sistem mampu melakukan pengelolaan data tiket dan pemesanan melalui operasi CRUD (Create, Read, Update, Delete), pencarian data menggunakan Linear Search, pengurutan data menggunakan Bubble Sort, serta penyimpanan data menggunakan file CSV. Implementasi Linked List dan Queue menunjukkan penerapan konsep struktur data dalam pengembangan aplikasi command-line yang sederhana, fungsional, dan mudah digunakan.
